@@ -9,6 +9,7 @@
 ## 👩🏻‍💻 Work Details
 - "Flask"를 활용하여 API 생성
     - SQL 쿼리문을 사용하여 데이터베이스의 CRUD 작업을 진행
+    - MySQL Database와 연결하여 쿼리문을 실행시키는 모듈 directquery.py 생성
 - "Express"를 활용하여 API를 생성
     - 데이터베이스로 MongoDB를 사용
     - Mongoose를 활용하여 Collection 및 Documnet 생성
