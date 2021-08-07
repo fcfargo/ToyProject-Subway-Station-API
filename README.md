@@ -24,7 +24,3 @@
 ## 🔧 Tools
 - Visaul Studio Code
 - Github
-
-## ✏️ References
-- 이 프로젝트는 마켓 컬리를 참고하여 학습용으로 작업 되었습니다.
-- 이 프로젝트에서 사용된 모든 무료 이미지는 Unsplash에서 가져왔습니다.
