@@ -1,6 +1,6 @@
 # ToyProject-Seoul-Subwya-Database 🍫🍪🍩🍭🧁
 ## 🖥 Project Summary
-- 서울 지하철 역 정보(역 이름, 환승 역, 첫차 및 막차 시간 등...) 검색이 가능한 API를 생성했습니다.
+- 서울 지하철 역 정보(역 이름, 환승 역, 첫차 및 막차 출발 시간 등...) 검색이 가능한 API를 생성했습니다.
 - 동일한 기능(역 정보 검색 API)을 각기 다른 Framework(Flask, Express)로 구현했습니다.
 - Flask를 기반으로 생성한 API의 경우, 데이터베이스로 MySQL을 사용했습니다.
 - Flask를 기반으로 생성한 API의 경우, SQL쿼리문으로 데이터베이스의 CRUD 작업을 진행했습니다. 
